@@ -2686,7 +2686,7 @@ remove them if not needed.
     #include <mutex>
 
     #ifndef _MSC_VER
-        #include <cstring>
+        #include <cstdio>
     #endif
 
 #else
